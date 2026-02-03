@@ -1,2 +1,3 @@
-(a) Pros: Faster creation of MVP, high customer satisfaction via constant feedback
-    Cons: Scope creep, lack of comprehensive documentation
+(a) Pros: Faster creation of MVP, high customer satisfaction via constant feedback.
+    Cons: Scope creep, lack of comprehensive documentation.
+(b) The product owner manages the backlog and stakeholder requirements while the scrum master facilitates meetings and removes any potential impediments.
