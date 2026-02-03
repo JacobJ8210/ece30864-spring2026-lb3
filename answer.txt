@@ -4,3 +4,7 @@
 (c) Sprint Planning: sets the goal and scope of the meeting. It also lays out how the work will be done.
     Daily Scrum: Allows devs to synchronize. Also allows team to identify any blockers/potential blockers.
     Sprint Review: Team gathers feedback from completed material. They create a plan for improvement for the next sprint.
+(d) Epic: Large bodies of work that are broken down into stories.
+    Story: Smaller, user-focused features that make up an Epic.
+    Bug: Errors that neeed fixing.
+    Task: Non-functional work items.
