@@ -1,3 +1,6 @@
 (a) Pros: Faster creation of MVP, high customer satisfaction via constant feedback.
     Cons: Scope creep, lack of comprehensive documentation.
 (b) The product owner manages the backlog and stakeholder requirements while the scrum master facilitates meetings and removes any potential impediments.
+(c) Sprint Planning: sets the goal and scope of the meeting. It also lays out how the work will be done.
+    Daily Scrum: Allows devs to synchronize. Also allows team to identify any blockers/potential blockers.
+    Sprint Review: Team gathers feedback from completed material. They create a plan for improvement for the next sprint.
